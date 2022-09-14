@@ -13,7 +13,7 @@ Hi, I'm Sai Seshu Chadaram from Hyderabad, India.
     - Cloud computing
     - Linux internals
 - ✨ Recently I started learning Quantum computing and build some tools on the way, [here](https://github.com/bits-and-electrons) are some of my recent works.
-- 💬 Ask me anything: [ssc1729@outlook.com](mailto:ssc1729@outlook.com) or [@Linkedin](https://www.linkedin.com/in/ssc1729/).
+- 💬 Ask me anything: [sai.chadaram08@outlook.com](mailto:sai.chadaram08@outlook.com) or [@Linkedin](https://www.linkedin.com/in/sachadar/).
 
 ## **Stats**  
 
