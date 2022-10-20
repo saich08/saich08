@@ -17,6 +17,6 @@ Hi, I'm Sai Seshu Chadaram from Hyderabad, India.
 
 ## **Stats**  
 
-[![ssc1729's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssc1729&theme=dark&count_private=true&show_icons=true)](https://github.com/ssc1729)
+[![saich08's GitHub stats](https://github-readme-stats.vercel.app/api?username=saich08&theme=dark&count_private=true&show_icons=true)](https://github.com/saich08)
 
-[![ssc1729's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssc1729&hide=html&theme=dark&layout=compact&count_private=true&show_icons=true)](https://github.com/ssc1729)
+[![saich08's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saich08&hide=html&theme=dark&layout=compact&count_private=true&show_icons=true)](https://github.com/saich08)
