@@ -4,7 +4,7 @@
 
 Hi, I'm Sai Seshu Chadaram from Hyderabad, India. 
 
-- 🔭 I'm currently working at [@Microsoft](https://github.com/microsoft) in [@Azure](https://github.com/Azure) team as Software Engineer 2 helping to build Supercomputer in Cloud.
+- 🔭 I'm currently working at [@Microsoft](https://github.com/microsoft) in [@Azure](https://github.com/Azure) team as Senior Software Engineer helping to build Supercomputers in Cloud.
     - https://blogs.microsoft.com/ai/openai-azure-supercomputer/
     - https://azure.microsoft.com/en-in/blog/microsoft-brings-azure-supercomputing-to-uk-met-office/
 - 🌱 Few areas which I am interested in
@@ -13,7 +13,7 @@ Hi, I'm Sai Seshu Chadaram from Hyderabad, India.
     - Cloud computing
     - Linux internals
 - ✨ Recently I started learning Quantum computing and build some tools on the way, [here](https://github.com/bits-and-electrons) are some of my recent works.
-- 💬 Ask me anything: [sai.chadaram08@outlook.com](mailto:sai.chadaram08@outlook.com) or [@Linkedin](https://www.linkedin.com/in/sachadar/).
+- 💬 Ask me anything: [sai.chadaram08@outlook.com](mailto:sai.chadaram08@outlook.com).
 
 ## **Stats**  
 
