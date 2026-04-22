@@ -44,8 +44,9 @@ I work at [@Microsoft](https://github.com/microsoft) within the [@Azure](https:/
 **Infrastructure & Orchestration**
 
 <p>
-  <img src="https://img.shields.io/badge/Buildout-4CAF50?style=for-the-badge" alt="Buildout" />
+  <img src="https://img.shields.io/badge/AI%20Infra%20Management-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AI Infra Management" />
   <img src="https://img.shields.io/badge/Large%20Scale%20Systems-1a1a2e?style=for-the-badge" alt="Large Scale Systems" />
+  <img src="https://img.shields.io/badge/Buildout-4CAF50?style=for-the-badge" alt="Buildout" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -55,9 +56,8 @@ I work at [@Microsoft](https://github.com/microsoft) within the [@Azure](https:/
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/AI%20Infra%20Management-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AI Infra Management" />
   <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge" alt="Microservices" />
-  <img src="https://img.shields.io/badge/Redfish-CC0000?style=for-the-badge" alt="Redfish" />
+  <img src="https://img.shields.io/badge/Multithreading-CC0000?style=for-the-badge" alt="Multithreading" />
 </p>
 
 **Core Expertise:** Containers · CNI · Kubernetes · Cloud Computing · Linux Internals · AI Infrastructure · Microservices
