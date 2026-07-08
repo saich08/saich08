@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Engineer · Microsoft Azure · Hyderabad, India</h3>
 
 <p align="center">
-  <a href="mailto:saich08@outlook.com"><img src="https://img.shields.io/badge/saich08%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
+  <a href="mailto:seshu1729@outlook.com"><img src="https://img.shields.io/badge/seshu1729%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
   &nbsp;
   <a href="https://github.com/saich08"><img src="https://img.shields.io/badge/GitHub-saich08-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
