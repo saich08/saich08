@@ -9,10 +9,6 @@
   <a href="https://github.com/bits-and-electrons"><img src="https://img.shields.io/badge/Research-bits--and--electrons-6e40c9?style=flat-square&logo=github&logoColor=white" alt="Research Org" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saich08&style=flat-square&color=0078D4&label=Profile+Views" alt="Profile views" />
-</p>
-
 ---
 
 ### 🏢 What I Do
