@@ -66,8 +66,34 @@ Exploring **Quantum Computing** and building related tooling — check out my pr
 
 ---
 
+### 🤖 My Agent
+
+<p>
+  <a href="https://github.com/saich08-agent-v1"><img src="https://img.shields.io/badge/Agent-saich08--agent--v1-2EA44F?style=flat-square&logo=githubcopilot&logoColor=white" alt="Agent" /></a>
+</p>
+
+[@saich08-agent-v1](https://github.com/saich08-agent-v1) is my dedicated machine account for AI coding agents. It works across my repositories with its own credentials, separate from my personal account.
+
+---
+
 ### 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <th>👤 <a href="https://github.com/saich08">saich08</a></th>
+    <th>🤖 <a href="https://github.com/saich08-agent-v1">saich08-agent-v1</a></th>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=saich08&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="saich08 GitHub stats" width="100%" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=saich08-agent-v1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="saich08-agent-v1 GitHub stats" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com/?user=saich08&theme=github-dark&hide_border=true" alt="saich08 GitHub streak" width="100%" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=saich08-agent-v1&theme=github-dark&hide_border=true" alt="saich08-agent-v1 GitHub streak" width="100%" /></td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saich08&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saich08&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&custom_title=saich08%20contributions" alt="saich08 contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saich08-agent-v1&theme=github-compact&hide_border=true&area=true&color=2ea44f&line=2ea44f&point=ffffff&custom_title=saich08-agent-v1%20contributions" alt="saich08-agent-v1 contribution graph" width="100%" />
 </p>
